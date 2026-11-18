@@ -4,7 +4,7 @@
 - **Reg number:** 27500
 - **D:** 0
 - **T:** 0
-- **GitHub username:** <markdanielkollie2-ship-it>
+- **GitHub username:** markdanielkollie2-ship-it
 
 ## Files
 
