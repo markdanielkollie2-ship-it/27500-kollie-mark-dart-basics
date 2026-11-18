@@ -3,24 +3,19 @@
 Reg no: 27500 | D = 0 | T = 0
 
 ## Done
-- B2: countVowels written, runs correctly
-- B3: initials written, handles extra spaces and empty input
+- A1, A2, B1: traces run in VS Code, actual output in answers.pdf
+- B2, B3: code written, runs correctly
+- C1-C4: traces run, actual output in answers.pdf
 - C5: drawTriangle written, height 0 and -2 print nothing
+- D1: trace run, actual output in answers.pdf
 - D2: momoFee, maskPhone and receipt loop written, runs correctly
-- F: formatRwf, isValidPin, sendMoney, buyAirtime and main written, runs correctly
+- E: explanations written in answers.pdf
+- F: momo_sim.dart written, runs correctly
+- G: debugging log written in answers.pdf
+- answers.pdf: complete and pushed
 
 ## In progress
-- A1: prediction written, running actual output in VS Code
-- A2: prediction written, running actual output in VS Code
-- B1: prediction written, running actual output in VS Code
-- C1: prediction written, running actual output in VS Code
-- C2: prediction written, running actual output in VS Code
-- C3: prediction written, running actual output in VS Code
-- C4: prediction written, running actual output in VS Code
-- D1: prediction written, running actual output in VS Code
-- E: fixes written, justification for Level/level being finished
-- G: collecting my real errors and fixes for the debugging log
-- answers.pdf: pasting real outputs and explanations
+- Nothing
 
 ## Stuck on
-- Nothing at the moment
+- Nothing
